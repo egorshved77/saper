@@ -1,0 +1,4 @@
+ToolSet: 6.0 w64 (local)@C:\Users\egors\programowanie obiektowe\sfml\mingw32
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/clion/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe
