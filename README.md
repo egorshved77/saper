@@ -24,9 +24,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 #### Using CMake
 ```bash
-git clone https://zts.ita.pwr.wroc.pl/gitlab/yahor.shved_283044/saper_yahor_shved.git
 cd minesweeper
 mkdir build && cd build
 cmake ..
 make
 ./minesweeper
+
