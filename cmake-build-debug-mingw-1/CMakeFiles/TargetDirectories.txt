@@ -1,3 +1,0 @@
-C:/Users/egors/programowanie obiektowe/saper1/saper_yahor_shved/cmake-build-debug-mingw-1/CMakeFiles/saper.dir
-C:/Users/egors/programowanie obiektowe/saper1/saper_yahor_shved/cmake-build-debug-mingw-1/CMakeFiles/edit_cache.dir
-C:/Users/egors/programowanie obiektowe/saper1/saper_yahor_shved/cmake-build-debug-mingw-1/CMakeFiles/rebuild_cache.dir
